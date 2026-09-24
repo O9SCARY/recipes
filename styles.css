@@ -44,4 +44,10 @@ a{
     border-radius: 10px;
 }
 
+@media (max-width:768px){
+    #pizza-img, #friedrice-img, #jollof-img{
+        margin-left: 50px;
+    }
+}
+
 
