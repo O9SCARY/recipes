@@ -27,6 +27,7 @@ a{
 
 #pizza-heading, #desc-heading, #friedrice-heading, #jollof-heading{
     text-align: center;
+    text-decoration: underline;
 }
 #pizza-img, #friedrice-img, #jollof-img{
     margin: 20px;
