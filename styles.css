@@ -24,3 +24,22 @@ a{
     border-radius: 10px;
 }
 
+#pizza-heading, #desc-heading, #friedrice-heading, #jollof-heading{
+    text-align: center;
+}
+#pizza-img, #friedrice-img, #jollof-img{
+    margin: 20px;
+    margin-left: 350px;
+    width: 40%;
+    height: auto;
+}
+#redirect{
+    background-color: gold;
+    width: 150px;
+    height: auto;
+    padding: 25px;
+    margin: 35px;
+    border-radius: 10px;
+}
+
+
